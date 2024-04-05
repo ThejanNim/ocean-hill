@@ -407,19 +407,7 @@ Header Style
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
   display: inline-block;
-}
-
-.header-area .main-nav .logo h1 {
-  line-height: 100px;
-  font-size: 28px;
-  text-transform: uppercase;
-  color: #1e1e1e;
-  font-weight: 700;
-  letter-spacing: 2px;
-}
-
-.background-header .main-nav .logo h1 {
-  line-height: 80px;
+  width: 100px;
 }
 
 .header-area .main-nav ul.nav {
