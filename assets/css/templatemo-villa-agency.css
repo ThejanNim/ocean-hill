@@ -733,15 +733,15 @@ Banner Style
 }
 
 .main-banner .item-1 {
-  background-image: url(../images/banner-01.jpg);
+  background-image: url(../images/ocean-banner-03.1.jpg);
 }
 
 .main-banner .item-2 {
-  background-image: url(../images/banner-02.jpg);
+  background-image: url(../images/ocean-banner-04.jpg);
 }
 
 .main-banner .item-3 {
-  background-image: url(../images/banner-03.jpg);
+  background-image: url(../images/ocean-banner-01.jpg);
 }
 
 .main-banner .item span.category {
@@ -1149,6 +1149,7 @@ Properties Style
 
 .properties .item img {
   border-radius: 10px;
+  height: 237px;
 }
 
 .properties .item span.category {
